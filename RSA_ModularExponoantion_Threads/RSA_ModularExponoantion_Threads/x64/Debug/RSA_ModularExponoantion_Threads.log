@@ -1,0 +1,14 @@
+﻿  RSA_ModularExponoantion_Threads.cpp
+E:\gmp-build\include\gmp.h(1792,19): warning C4244: 'return': conversion from 'mp_limb_t' to 'unsigned long', possible loss of data
+  (compiling source file 'RSA_ModularExponoantion_Threads.cpp')
+  
+C:\Users\Dell\source\repos\MusabAdwan\Parallel-RSA-Design\RSA_ModularExponoantion_Threads\RSA_ModularExponoantion_Threads\RSA_ModularExponoantion_Threads.cpp(92,44): warning C4244: 'argument': conversion from '__int64' to 'long', possible loss of data
+C:\Users\Dell\source\repos\MusabAdwan\Parallel-RSA-Design\RSA_ModularExponoantion_Threads\RSA_ModularExponoantion_Threads\RSA_ModularExponoantion_Threads.cpp(56,37): warning C4101: 'encryptyioncritical_start': unreferenced local variable
+C:\Users\Dell\source\repos\MusabAdwan\Parallel-RSA-Design\RSA_ModularExponoantion_Threads\RSA_ModularExponoantion_Threads\RSA_ModularExponoantion_Threads.cpp(56,90): warning C4101: 'decryptyioncritical_end': unreferenced local variable
+C:\Users\Dell\source\repos\MusabAdwan\Parallel-RSA-Design\RSA_ModularExponoantion_Threads\RSA_ModularExponoantion_Threads\RSA_ModularExponoantion_Threads.cpp(39,21): warning C4101: 'end_t': unreferenced local variable
+C:\Users\Dell\source\repos\MusabAdwan\Parallel-RSA-Design\RSA_ModularExponoantion_Threads\RSA_ModularExponoantion_Threads\RSA_ModularExponoantion_Threads.cpp(56,12): warning C4101: 'encryptyioncritical_end': unreferenced local variable
+C:\Users\Dell\source\repos\MusabAdwan\Parallel-RSA-Design\RSA_ModularExponoantion_Threads\RSA_ModularExponoantion_Threads\RSA_ModularExponoantion_Threads.cpp(39,12): warning C4101: 'start_t': unreferenced local variable
+C:\Users\Dell\source\repos\MusabAdwan\Parallel-RSA-Design\RSA_ModularExponoantion_Threads\RSA_ModularExponoantion_Threads\RSA_ModularExponoantion_Threads.cpp(56,64): warning C4101: 'decryptyioncritical_start': unreferenced local variable
+  RSA_ModularExponoantion_Threads.vcxproj -> C:\Users\Dell\source\repos\MusabAdwan\Parallel-RSA-Design\RSA_ModularExponoantion_Threads\x64\Debug\RSA_ModularExponoantion_Threads.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

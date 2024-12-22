@@ -1,0 +1,8 @@
+﻿  RSA Sequential.cpp
+E:\gmp-build\include\gmp.h(1792,19): warning C4244: 'return': conversion from 'mp_limb_t' to 'unsigned long', possible loss of data
+  (compiling source file 'RSA%20Sequential.cpp')
+  
+C:\Users\Dell\source\repos\MusabAdwan\Parallel-RSA-Design\RSA Sequential\RSA Sequential\RSA Sequential.cpp(47,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RSA Sequential.vcxproj -> C:\Users\Dell\source\repos\MusabAdwan\Parallel-RSA-Design\RSA Sequential\x64\Debug\RSA Sequential.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
